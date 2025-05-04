@@ -55,3 +55,5 @@ This project leverages machine learning models and data visualization tools to p
 - Power BI Desktop
 - Git (optional, for version control)
 
+![Customer Churn Prediction Dashboard](https://github.com/user-attachments/assets/868f6eb1-2173-478e-a1b4-b8eb2445b05c)
+
